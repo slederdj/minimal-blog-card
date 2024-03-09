@@ -57,12 +57,6 @@ body {
 .card-image {
   height: 152px;
   width: 336px;
-
-  img {
-    height: 100%;
-    width: 100%;
-    border-radius: 10px;
-  }
 }
 
 .card-line {
